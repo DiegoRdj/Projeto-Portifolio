@@ -184,7 +184,7 @@ iframe {
     color: var(--texto);
 }
 #formacao-container .instituicao {
-    color: var(--destaque-inverso);
+    color: var(--destaque);
     font-size: 1.1em;
 }
 
